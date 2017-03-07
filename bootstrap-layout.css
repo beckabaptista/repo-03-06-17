@@ -1,0 +1,9 @@
+
+body {
+  background-color: #708090	;
+}
+
+.container {
+  background-color: #FFFFE0;
+  overflow: auto; /*CSS Hack #2 "the clearix hack"*/
+}
